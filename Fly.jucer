@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="C1B0T0" name="Fly" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Lazirko Records"
+              version="1.0.0" cppLanguageStandard="17" pluginName="Drosophila melanogaster"
+              pluginManufacturer="Lazirko Records" pluginManufacturerCode="Lazi"
+              pluginCode="Flya" pluginFormats="buildVST3,buildStandalone" pluginIsSynth="0"
+              pluginWantsMidiIn="0" pluginProducesMidiOut="0" pluginIsMidiEffectPlugin="0"
+              pluginVST3Category="Filter|Modulation">
+  <MAINGROUP id="ijaKxc" name="Fly">
+    <GROUP id="auditorysource" name="Source">
+      <FILE id="processorcpp" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="processorh" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="editorcpp" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="editorh" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="simulatorcpp" name="AuditoryPathwaySimulator.cpp" compile="1"
+            resource="0" file="Source/AuditoryPathwaySimulator.cpp"/>
+      <FILE id="simulatorh" name="AuditoryPathwaySimulator.h" compile="0"
+            resource="0" file="Source/AuditoryPathwaySimulator.h"/>
+      <FILE id="visualizercpp" name="Visualizer.cpp" compile="1" resource="0"
+            file="Source/Visualizer.cpp"/>
+      <FILE id="visualizerh" name="Visualizer.h" compile="0" resource="0"
+            file="Source/Visualizer.h"/>
+      <FILE id="loadercpp" name="DataLoader.cpp" compile="1" resource="0"
+            file="Source/DataLoader.cpp"/>
+      <FILE id="loaderh" name="DataLoader.h" compile="0" resource="0" file="Source/DataLoader.h"/>
+      <FILE id="transporth" name="RealtimeTransport.h" compile="0" resource="0"
+            file="Source/RealtimeTransport.h"/>
+      <FILE id="mappingh" name="AudioMapping.h" compile="0" resource="0"
+            file="Source/AudioMapping.h"/>
+    </GROUP>
+    <GROUP id="auditorydata" name="Data">
+      <FILE id="embeddedgraph" name="auditory.flygraph" compile="0" resource="1"
+            file="Data/auditory.flygraph"/>
+    </GROUP>
+  </MAINGROUP>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors_headless" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_WEB_BROWSER="0" JUCE_USE_CURL="0"
+               JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <VS2026 targetFolder="Builds/VisualStudio2026" extraCompilerFlags="/utf-8">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Drosophila melanogaster"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Drosophila melanogaster"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_basics" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors_headless" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="G:/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="G:/JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2026>
+  </EXPORTFORMATS>
+</JUCERPROJECT>
