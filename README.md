@@ -5,6 +5,8 @@
 A C++17 / JUCE 8 **mono/stereo VST3 effect and Standalone application** using a real FlyWire auditory subgraph. Incoming audio activates Johnston's organ (JO-A/JO-B) model neurons. Detected synapses propagate leaky integrate-and-fire (LIF) activity; downstream population rates control the audio filter. An OpenGL view displays that same circuit and its actual simulated spikes.
 
 > **This is a computational model, not a living fruit fly or a calibrated reconstruction of fly hearing.** The waveform remains a conventional DSP carrier controlled by a biological-connectivity-constrained simulation. It is not reconstructed from spikes. Sensory frequency mapping, dBFS-to-activation conversion and the output filter are engineering assumptions. There is no validated subjective-hearing, song-discrimination or complete auditory-census claim.
+> 
+<img width="1807" height="1406" alt="image" src="https://github.com/user-attachments/assets/36cdd96e-833d-4053-bf3d-91fe49a9b600" />
 
 ## Quick start
 
