@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Drosophila melanogaster — Lazirko Records</title>
+<style>body{margin:0;background:#080f1c;color:#d8fff2;font:15px system-ui;padding:24px}main{max-width:1200px;margin:auto}h1{font-size:28px}p{color:#9ebcca;line-height:1.6}img{max-width:100%;border:1px solid #294357;border-radius:12px}audio{width:100%}.note{border-left:3px solid #80e8ce;padding:4px 18px;margin:24px 0}a{color:#80e8ce}</style></head>
+<body><main><h1><i>Drosophila melanogaster</i></h1><p>Lazirko Records · Native JUCE plugin verification</p>
+<div class="note"><p><strong>Historical evidence — October 4, 2026:</strong> these captures and recordings predate the Delta-listen feature. Current build verification is recorded in VERIFICATION.md; this page does not demonstrate current Delta audio or controls.</p></div>
+<p>731 FlyWire FAFB v783 neurons · 7,056 directed pairs · 38,765 detected synapses. This is a review of the compiled desktop plugin, not a web reimplementation.</p>
+<div class="note"><p><strong>Visualisation-disable check passed:</strong> the real editor button detached OpenGL and kept the rendered-frame count fixed at 196 during the measured disabled interval, while input and neural-control rates remained active. Re-enabling resumed rendering. 57,088 finite processed samples retained neural audio modification while the view was disabled.</p></div>
+<h2>Live OpenGL framebuffer</h2><img src="circuit.png?v=7" alt="Direct OpenGL framebuffer capture of the actual expanded auditory circuit">
+<p>Nodes flash for actual simulated spikes; lines are stored detected connections. Schematic layout is not feedforward anatomy. This capture used the live-editor test's gain-4 stimulus; the VST3 recording below uses untouched gain-1 clean defaults.</p>
+<h2>Recorded VST3 output — clean defaults</h2><p>The actual renamed VST3 processed a paced 220 Hz sine / pulse stimulus. Stereo 48 kHz PCM16, 6.8667 seconds. Playback is optional; finite/non-silent output was verified.</p><audio controls preload="metadata" src="host-output.wav?v=6"></audio>
+<div class="note"><p><strong>Scientific scope:</strong> connectivity-constrained LIF with neural-controlled DSP, not calibrated fly hearing or waveform reconstruction from spikes. Missing JO synapses are not synthesised. Coverage remains incomplete; seven confirmed central cells without detected JO paths are retained without invented drive.</p></div>
+<p><a href="editor-status.txt">Captured live UI labels and audio-control rates</a> · <a href="optimisation.md">Measured optimisation report</a></p>
+</main></body></html>

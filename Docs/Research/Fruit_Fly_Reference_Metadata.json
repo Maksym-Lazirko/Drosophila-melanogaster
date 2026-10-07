@@ -1,0 +1,1178 @@
+[
+  {
+    "doi": "10.1016/j.cub.2022.06.019",
+    "verified": true,
+    "title": [
+      "Neural network organization for courtship-song feature detection in Drosophila"
+    ],
+    "authors": [
+      {
+        "given": "Christa A.",
+        "family": "Baker",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claire",
+        "family": "McKellar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rich",
+        "family": "Pang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aljoscha",
+        "family": "Nern",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sven",
+        "family": "Dorkenwald",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Diego A.",
+        "family": "Pacheco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nils",
+        "family": "Eckstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jan",
+        "family": "Funke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Barry J.",
+        "family": "Dickson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mala",
+        "family": "Murthy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Current Biology"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "volume": "32",
+    "issue": "15",
+    "pages": "3317-3333.e7",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.cub.2022.06.019"
+  },
+  {
+    "doi": "10.1016/j.neuron.2015.08.014",
+    "verified": true,
+    "title": [
+      "Connecting Neural Codes with Behavior in the Auditory System of Drosophila"
+    ],
+    "authors": [
+      {
+        "given": "Jan",
+        "family": "Clemens",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cyrille C.",
+        "family": "Girardin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Philip",
+        "family": "Coen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiao-Juan",
+        "family": "Guan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Barry J.",
+        "family": "Dickson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mala",
+        "family": "Murthy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Neuron"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "volume": "87",
+    "issue": "6",
+    "pages": "1332-1343",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.neuron.2015.08.014"
+  },
+  {
+    "doi": "10.1038/s41467-017-02453-9",
+    "verified": true,
+    "title": [
+      "Fast intensity adaptation enhances the encoding of sound in Drosophila"
+    ],
+    "authors": [
+      {
+        "given": "Jan",
+        "family": "Clemens",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nofar",
+        "family": "Ozeri-Engelhard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mala",
+        "family": "Murthy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Nature Communications"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          9
+        ]
+      ]
+    },
+    "volume": "9",
+    "issue": "1",
+    "pages": null,
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41467-017-02453-9"
+  },
+  {
+    "doi": "10.1242/jeb.205.9.1199",
+    "verified": true,
+    "title": [
+      "The mechanical basis of<i>Drosophila</i>audition"
+    ],
+    "authors": [
+      {
+        "given": "Martin C.",
+        "family": "Göpfert",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Present address: School of Biological Sciences, University of Bristol,Woodland Road, Bristol BS8 1UG, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel",
+        "family": "Robert",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Present address: School of Biological Sciences, University of Bristol,Woodland Road, Bristol BS8 1UG, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Experimental Biology"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2002,
+          5,
+          1
+        ]
+      ]
+    },
+    "volume": "205",
+    "issue": "9",
+    "pages": "1199-1208",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1242/jeb.205.9.1199"
+  },
+  {
+    "doi": "10.2307/25148625",
+    "verified": true,
+    "title": [
+      "Design Science in Information Systems Research1"
+    ],
+    "authors": [
+      {
+        "given": "Alan R.",
+        "family": "Hevner",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Information Systems and Decision Sciences, College of Business Administration, University of South Florida, Tampa, FL 33620, U.S.A."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Salvatore T.",
+        "family": "March",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Own Graduate School of Management, Vanderbilt University, Nashville, TN 37203, U.S.A."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jinsoo",
+        "family": "Park",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Business Administration, Korea University, Seoul, 136-701, Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sudha",
+        "family": "Ram",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Management Information Systems, Eller College of Business and Public Administration, University of Arizona, Tucson, AZ 85721, U.S.A."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "MIS Quarterly"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2004,
+          3,
+          1
+        ]
+      ]
+    },
+    "volume": "28",
+    "issue": "1",
+    "pages": "75-106",
+    "type": "journal-article",
+    "url": "https://doi.org/10.2307/25148625"
+  },
+  {
+    "doi": "10.1017/9781139051699",
+    "verified": true,
+    "title": [
+      "Human and Machine Hearing"
+    ],
+    "authors": [
+      {
+        "given": "Richard F.",
+        "family": "Lyon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [],
+    "year": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          28
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "type": "monograph",
+    "url": "https://doi.org/10.1017/9781139051699"
+  },
+  {
+    "doi": "10.2753/MIS0742-1222240302",
+    "verified": true,
+    "title": [
+      "A Design Science Research Methodology for Information Systems Research"
+    ],
+    "authors": [
+      {
+        "given": "Ken",
+        "family": "Peffers",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "a  The Management Information Systems Department, The University of Nevada, Las Vegas"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tuure",
+        "family": "Tuunanen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "b  The Department of Information Systems and Operations Management, The University of Auckland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcus A.",
+        "family": "Rothenberger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "c  Associate Professor of Management Information Systems, The University of Nevada, Las Vegas"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Samir",
+        "family": "Chatterjee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "d  The School of Information Systems &amp; Technology and Founding Director of the Network Convergence Laboratory, Claremont Graduate University, California"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Journal of Management Information Systems"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2007,
+          12
+        ]
+      ]
+    },
+    "volume": "24",
+    "issue": "3",
+    "pages": "45-77",
+    "type": "journal-article",
+    "url": "https://doi.org/10.2753/mis0742-1222240302"
+  },
+  {
+    "doi": "10.1038/s41586-024-07763-9",
+    "verified": true,
+    "title": [
+      "A Drosophila computational brain model reveals sensorimotor processing"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8794-5474",
+        "authenticated-orcid": false,
+        "given": "Philip K.",
+        "family": "Shiu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7221-648X",
+        "authenticated-orcid": false,
+        "given": "Gabriella R.",
+        "family": "Sterne",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6293-4867",
+        "authenticated-orcid": false,
+        "given": "Nico",
+        "family": "Spiller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4440-7297",
+        "authenticated-orcid": false,
+        "given": "Romain",
+        "family": "Franconville",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-7146-6345",
+        "authenticated-orcid": false,
+        "given": "Andrea",
+        "family": "Sandoval",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joie",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Neha",
+        "family": "Simha",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chan Hyuk",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Seongbong",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7045-6140",
+        "authenticated-orcid": false,
+        "given": "Jinseop S.",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sven",
+        "family": "Dorkenwald",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arie",
+        "family": "Matsliah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5633-1314",
+        "authenticated-orcid": false,
+        "given": "Philipp",
+        "family": "Schlegel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-9684-0156",
+        "authenticated-orcid": false,
+        "given": "Szi-chieh",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claire E.",
+        "family": "McKellar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Amy",
+        "family": "Sterling",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5948-3092",
+        "authenticated-orcid": false,
+        "given": "Marta",
+        "family": "Costa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7833-8621",
+        "authenticated-orcid": false,
+        "given": "Katharina",
+        "family": "Eichler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1195-0445",
+        "authenticated-orcid": false,
+        "given": "Alexander Shakeel",
+        "family": "Bates",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2226-8174",
+        "authenticated-orcid": false,
+        "given": "Nils",
+        "family": "Eckstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4388-7783",
+        "authenticated-orcid": false,
+        "given": "Jan",
+        "family": "Funke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0587-9355",
+        "authenticated-orcid": false,
+        "given": "Gregory S. X. E.",
+        "family": "Jefferis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3063-3389",
+        "authenticated-orcid": false,
+        "given": "Mala",
+        "family": "Murthy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9494-6531",
+        "authenticated-orcid": false,
+        "given": "Salil S.",
+        "family": "Bidaye",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stefanie",
+        "family": "Hampel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew M.",
+        "family": "Seeds",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kristin",
+        "family": "Scott",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "Nature"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          2
+        ]
+      ]
+    },
+    "volume": "634",
+    "issue": "8032",
+    "pages": "210-219",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41586-024-07763-9"
+  },
+  {
+    "doi": "10.1109/TSA.2005.858531",
+    "verified": true,
+    "title": [
+      "Adaptive digital audio effects (a-DAFx): a new class of sound transformations"
+    ],
+    "authors": [
+      {
+        "given": "V.",
+        "family": "Verfaille",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "U.",
+        "family": "Zolzer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Arfib",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "IEEE Transactions on Audio, Speech and Language Processing"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2006,
+          9
+        ]
+      ]
+    },
+    "volume": "14",
+    "issue": "5",
+    "pages": "1817-1831",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1109/tsa.2005.858531"
+  },
+  {
+    "doi": "10.1523/JNEUROSCI.3644-17.2018",
+    "verified": true,
+    "title": [
+      "GABAergic Local Interneurons Shape Female Fruit Fly Response to Mating Songs"
+    ],
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0584-802X",
+        "authenticated-orcid": false,
+        "given": "Daichi",
+        "family": "Yamada",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8859-6931",
+        "authenticated-orcid": false,
+        "given": "Hiroshi",
+        "family": "Ishimoto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2746-2809",
+        "authenticated-orcid": false,
+        "given": "Xiaodong",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4547-5638",
+        "authenticated-orcid": false,
+        "given": "Tsunehiko",
+        "family": "Kohashi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9873-3143",
+        "authenticated-orcid": false,
+        "given": "Yuki",
+        "family": "Ishikawa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1552-6892",
+        "authenticated-orcid": false,
+        "given": "Azusa",
+        "family": "Kamikouchi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      "The Journal of Neuroscience"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          24
+        ]
+      ]
+    },
+    "volume": "38",
+    "issue": "18",
+    "pages": "4329-4347",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1523/jneurosci.3644-17.2018"
+  },
+  {
+    "doi": "10.5281/zenodo.10676866",
+    "verified": true,
+    "registry": "DataCite",
+    "title": [
+      {
+        "title": "FlyWire Whole-brain Connectome Connectivity Data"
+      }
+    ],
+    "authors": [
+      {
+        "name": "FlyWire Consortium",
+        "nameType": "Organizational",
+        "affiliation": [
+          "Princeton University"
+        ],
+        "nameIdentifiers": []
+      }
+    ],
+    "year": 2024,
+    "version": "783.0",
+    "url": "https://zenodo.org/doi/10.5281/zenodo.10676866"
+  },
+  {
+    "doi": "10.1002/9781119991298",
+    "verified": true,
+    "registry": "Crossref",
+    "title": [
+      "DAFX: Digital Audio Effects"
+    ],
+    "authors": null,
+    "year": {
+      "date-parts": [
+        [
+          2011,
+          3,
+          10
+        ]
+      ]
+    },
+    "journal": [],
+    "pages": null,
+    "volume": null,
+    "issue": null,
+    "type": "edited-book"
+  }
+]

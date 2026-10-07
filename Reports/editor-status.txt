@@ -1,0 +1,19 @@
+Drosophila melanogaster
+Lazirko Records
+FAFB v783 | Connectome-constrained auditory LIF model
+INPUT  -16.2 dBFS    |    JO  63.2 Hz    |    AMMC-B1  2.1 Hz    |    Central auditory  0.9 Hz
+731 verified v783 neurons | 7056 directed edges | LIF load 2.2% | dropped audio / visual events 0 / 0 | Model, not calibrated fly hearing | JO detection incomplete
+JO-A / JO-B -> AMMC-A1 / A2 / B1 / B2 <-> WED / AVLP / PVLP / IPS / SAD / GNG
+Drag to pan | Wheel to zoom | Double-click to reset | Stage layout is schematic, not feedforward
+JO-B / JO-A band centres: 178.381 / 504.538 Hz | Auditory filter (clean) | Rates below are the latest audio-control inputs
+Johnston's organ gain
+JO-B / JO-A sensory balance
+JO band centre (Hz)
+Band separation (octaves)
+Simulation time-scale
+Wet / dry
+Neural influence
+Spike brightness
+Spike decay (s)
+Downstream auditory output
+Neuron colour

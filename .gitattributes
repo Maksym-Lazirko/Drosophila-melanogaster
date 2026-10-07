@@ -1,0 +1,15 @@
+* text=auto
+*.cpp text eol=lf
+*.h text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+CMakeLists.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+# Tests verify exact data hashes: never convert the shipped data's line endings.
+/Data/* -text
+*.png -text
+*.wav -text
+*.docx -text
+*.flygraph -text
